@@ -22,8 +22,12 @@ module.exports = {
 function getGuideSidebar() {
   return [
     {
-      text: 'Contents',
-      children: [{ text: 'Repo Introduction', link: '/' }],
+      text: 'Introduction',
+      children: [{ text: '前言', link: '/' }],
+    },
+    {
+      text: 'Advanced',
+      children: [{ text: '抓包工具', link: '/guide/tool' }],
     },
   ]
 }
