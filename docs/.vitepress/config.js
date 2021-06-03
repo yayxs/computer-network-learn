@@ -30,6 +30,7 @@ function getGuideSidebar() {
       children: [
         { text: '抓包工具', link: '/guide/tool' },
         { text: '状态码响应码', link: '/guide/code' },
+        { text: '请求方法', link: '/guide/method' },
         { text: 'URI vs URL vs URN', link: '/guide/url-uri-urn' },
       ],
     },
