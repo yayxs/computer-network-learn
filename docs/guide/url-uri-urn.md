@@ -27,3 +27,5 @@ http://user:pass@host.com:80/path?query=string#hash
 ### URN
 
 永久统一资源定位符
+
+[https://excalidraw.com/#json=5027393441890304,qEoeqQElsfIvkHLXIqiadQ](https://excalidraw.com/#json=5027393441890304,qEoeqQElsfIvkHLXIqiadQ)
