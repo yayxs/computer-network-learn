@@ -26,9 +26,19 @@ function getGuideSidebar() {
       children: [{ text: '前言', link: '/' }],
     },
     {
+      text: '网络工具篇',
+      children: [
+        { text: 'putty', link: '/guide/putty' },
+        { text: 'telnet', link: '/guide/telnet' },
+        { text: 'netcat', link: '/guide/netcat' },
+        { text: 'netstat', link: '/guide/netstat' },
+        { text: 'TCPDump ', link: '/guide/TCPDump' },
+        { text: 'wireshark  ', link: '/guide/wireshark' },
+      ],
+    },
+    {
       text: 'Advanced',
       children: [
-        { text: '抓包工具', link: '/guide/tool' },
         { text: 'HTTP的发展历史', link: '/guide/http-his' },
         { text: 'TCP/IP协议族的分层管理', link: '/guide/stratification' },
         { text: 'URI vs URL vs URN', link: '/guide/url-uri-urn' },
