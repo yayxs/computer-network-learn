@@ -24,6 +24,8 @@ http://user:pass@host.com:80/path?query=string#hash
 - path 路由
 - Hash
 
+> https://excalidraw.com/#json=6679034255638528,m7BWi0-nTnaJ1Ws9iEh5xw
+
 ### URN
 
 永久统一资源定位符

@@ -1,0 +1,101 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "id": "ZF8yT04KG5V_hEB2XFfnE",
+      "type": "text",
+      "x": 158.8939393939396,
+      "y": 178.14231601731618,
+      "width": 1641,
+      "height": 312,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "seed": 248223730,
+      "version": 38,
+      "versionNonce": 508092722,
+      "isDeleted": false,
+      "boundElementIds": null,
+      "text": "Frame 4: 131 bytes on wire (1048 bits), 131 bytes captured (1048 bits) on interface \\Device\\NPF_{4640C502-F37E-4A79-8946-C4BC9A79E0A3}, id 0\r\nEthernet II, Src: ASUSTekC_52:2d:75 (a8:5e:45:52:2d:75), Dst: HuaweiTe_26:24:3d (88:40:33:26:24:3d)\r\nInternet Protocol Version 4, Src: 192.168.1.105, Dst: 39.156.66.18\r\nTransmission Control Protocol, Src Port: 8642, Dst Port: 80, Seq: 1, Ack: 1, Len: 77\r\nHypertext Transfer Protocol\r\n    GET / HTTP/1.1\\r\\n\r\n    Host: www.baidu.com\\r\\n\r\n    User-Agent: curl/7.55.1\\r\\n\r\n    Accept: */*\\r\\n\r\n    \\r\\n\r\n    [Full request URI: http://www.baidu.com/]\r\n    [HTTP request 1/1]\r\n    [Response in frame: 9]",
+      "fontSize": 20,
+      "fontFamily": 3,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 307
+    },
+    {
+      "id": "Bb3hsazk0pc9q0p0aVpf-",
+      "type": "line",
+      "x": 184.89393939393943,
+      "y": 319.14231601731615,
+      "width": 276,
+      "height": 3,
+      "angle": 0,
+      "strokeColor": "#c92a2a",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "round",
+      "seed": 207877422,
+      "version": 52,
+      "versionNonce": 40509554,
+      "isDeleted": false,
+      "boundElementIds": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          276,
+          3
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null
+    },
+    {
+      "id": "YhhRF4ySQPGSzkDNBsJlL",
+      "type": "rectangle",
+      "x": 192.60822510822533,
+      "y": 322.99945887445904,
+      "width": 407.85714285714295,
+      "height": 69.28571428571433,
+      "angle": 0,
+      "strokeColor": "#c92a2a",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "seed": 1223770674,
+      "version": 148,
+      "versionNonce": 1966229038,
+      "isDeleted": false,
+      "boundElementIds": null
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  }
+}

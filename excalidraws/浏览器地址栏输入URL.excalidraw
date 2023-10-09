@@ -1,0 +1,107 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "id": "ck4o1XunSjzD1-OHNFZ8K",
+      "type": "rectangle",
+      "x": 426,
+      "y": 407,
+      "width": 153,
+      "height": 51,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "seed": 1955313013,
+      "version": 140,
+      "versionNonce": 2094022363,
+      "isDeleted": false,
+      "boundElementIds": [
+        "FqBt6tvkMlXy-FnFdk_NG"
+      ]
+    },
+    {
+      "id": "FqBt6tvkMlXy-FnFdk_NG",
+      "type": "arrow",
+      "x": 585,
+      "y": 433,
+      "width": 257,
+      "height": 1,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "round",
+      "seed": 1765421493,
+      "version": 61,
+      "versionNonce": 677418741,
+      "isDeleted": false,
+      "boundElementIds": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          257,
+          -1
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "ck4o1XunSjzD1-OHNFZ8K",
+        "focus": 0.031825037707390647,
+        "gap": 6
+      },
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "ZUzL5JI8VrScg17HlGk-V",
+      "type": "text",
+      "x": 619,
+      "y": 390,
+      "width": 183,
+      "height": 26,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "seed": 1856314805,
+      "version": 19,
+      "versionNonce": 1118477755,
+      "isDeleted": false,
+      "boundElementIds": null,
+      "text": "生成 HTTP 请求消息",
+      "fontSize": 20,
+      "fontFamily": 2,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 21
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  }
+}
