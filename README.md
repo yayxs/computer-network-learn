@@ -1,3 +1,3 @@
-## 部署
+一名程序员，无论是应对日常开发、日常排查，还是解决突发的网络问题（网络调试、网络优化）都离不开计算机网络。而要想成为优秀的工程师、架构师，朝着更高阶、更高薪的岗位去晋升，补足编程必备基础知识——计算机网络是绕不过去的一关。
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ee8782c7-41e1-4ae6-869b-2eece8c8ce23/deploy-status)](https://app.netlify.com/sites/fett/deploys)
+- [TCP/IP 协议族]()

@@ -1,6 +1,10 @@
 ## 经典的分层模型
 
 - 分层管理：应用层、传输层、网络层、数据链路层
+  应用层 Application Layer:http dns smtp ftp
+  传输层 Transport Layer:tcp udp
+  网络互连层 Internet Layer:IP
+  网络访问层
 
   - 应用层：决定向用户提供应用服务时的通信活动 为应用软件提供很多服务 （HTTP）
     - 构建于`TCP/IP` 之上的
