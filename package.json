@@ -7,6 +7,13 @@
   "devDependencies": {
     "cz-conventional-changelog": "^3.3.0"
   },
+  "keywords": [
+    "vleejs",
+    "vast",
+    "vanlee",
+    "计算机网络",
+    "computer network"
+  ],
   "scripts": {},
   "config": {
     "commitizen": {
